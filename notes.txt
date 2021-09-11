@@ -1,0 +1,55 @@
+Package Managers:
+  - npm
+  - yarn
+  - pnpm
+
+Linters: 
+    - eslint for JavaScript linting
+    - csslint for CSS linting
+    - webhint for best practices linting
+
+Version Control
+    - git for version control
+    - GitHub for remote repositories
+
+Code Formatters
+    - Prettier as a code formatter
+
+Bundlers and Packagers
+    - Parcel
+    - Webpack
+
+Transformers
+    - Babel for compatible JavaScript
+    - PostCSS tofor compatible CSS
+
+Intermediate Compilers:
+    - Sass/SCSS for convenient CSS
+    - TypeScript for convenient JavaScript
+    - Less
+
+Frameworks:
+    - React
+    - Ember
+    - Vue
+
+Test-Writing:
+    - Jest
+    - Mocha
+    - Jasmine
+
+Test-Running
+    - Travis CI
+    - Jenkins
+    - Circle CI
+
+Deployment
+    - Netlify
+    - Vercel
+    - Github Pages
+
+A typical toolchain:
+    - npm
+    - git
+    - GitHub
+    
